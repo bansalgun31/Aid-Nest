@@ -1,12 +1,12 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./Components/Home.jsx";
-import About from "./Components/About.jsx";
-import Pages from "./Components/Pages.jsx";
-import Blogs from "./Components/Blogs.jsx";
-import Causes from "./Components/Causes.jsx";
-import Contact from "./Components/Contact.jsx";
-import Volunteer from "./Components/Volunteer.jsx";
+import Home from "./Home.jsx";
+import About from "./About.jsx";
+import Pages from "./Pages.jsx";
+import Blogs from "./Blogs.jsx";
+import Causes from "./Causes.jsx";
+import Contact from "./Contact.jsx";
+import Volunteer from "./Volunteer.jsx";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 import {
