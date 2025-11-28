@@ -166,18 +166,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
-
-For support, email support@aid-nest.com or open an issue in the repository.
-
-## Contact
-
-- **Website**: [Aid-Nest]()
-- **Email**: info@aid-nest.com
-- **Social Media**: [Add social media links]
-
----
-
-**Last Updated**: November 28, 2025
-
-Built with ❤️ for community support and volunteering
